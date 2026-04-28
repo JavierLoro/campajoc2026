@@ -270,6 +270,13 @@ a{color:inherit;text-decoration:none}
 .card__copy{
   margin:14px 0 0;font-size:14.5px;line-height:1.55;color:rgba(250,250,247,.85)
 }
+.card__beca{
+  margin:10px 0 0;padding-top:10px;border-top:1px solid var(--line);
+  font-size:12.5px;line-height:1.5;color:rgba(250,250,247,.5);
+  font-style:italic;
+}
+.card__beca a{color:rgba(250,250,247,.65);text-decoration:underline;text-underline-offset:2px}
+.card__beca a:hover{color:var(--accent)}
 
 /* ============ MANIFESTO ============ */
 .manifesto{
